@@ -1,0 +1,9 @@
+dist/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.egg-info*
+build/
+.DS_Store
+.idea/
+
